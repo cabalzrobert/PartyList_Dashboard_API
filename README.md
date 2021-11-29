@@ -1,2 +1,0 @@
-# PartyList_Dashboard_API
-PartyList_Dashboard_API
